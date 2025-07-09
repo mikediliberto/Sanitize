@@ -1,8 +1,9 @@
 
 #!/bin/bash
 #This script will rename files for the given directory. Removing all illegal characters.
-#Usage ./Sanitizing Script.sh /directory/to/run
+#Usage ./sanitize.sh /directory/to/run
 #Please test this script using duplicate files before applying to production
+#Tested for uploads to Egnyte cloud storage using MacOS 15.5
 
 verbose=1
 
